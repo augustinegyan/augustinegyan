@@ -34,7 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustinegyan&show_icons=true&locale=en" alt="augustinegyan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=augustinegyan&" alt="augustinegyan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=augustinegyan&" alt="augustinegyan" /></p>
 
 
 
