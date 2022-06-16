@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)
+![banner](https://user-images.githubusercontent.com/43218009/174118394-f48607ec-4541-4ea2-b7d8-2c5d7634d158.gif)
 <h1 align="center">Hi 👋, I'm Augustine Okai Gyan</h1>
 <h3 align="center">A Fullstack Developer and an Aspiring Computer Engineer</h3>
 
@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustinegyan&show_icons=true&locale=en" alt="augustinegyan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=augustinegyan&" alt="augustinegyan" /></p>
+
+
+
