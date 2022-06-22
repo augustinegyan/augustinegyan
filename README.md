@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [notyetcreated.com](notyetcreated.com)
 
-- 💬 Ask me about **C, C++ and Java**
+- 💬 Ask me about **C, C++ , Java and anything Bionic and Futuristic**
 
 - 📫 How to reach me **augustinehappysunshine369@gmail.com**
 
