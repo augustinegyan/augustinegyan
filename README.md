@@ -3,7 +3,7 @@
 
 `Geek From The Matrix `
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&pause=1000&color=17A71B&width=435&lines=A+code+junkie;We+do+stuff+for+fun;Just+Kidding+%F0%9F%A4%AA" alt="Typing SVG" /></a>
 <h3 align="center">A Fullstack Developer and an Aspiring Computer Engineer</h3>
 
 <img align="right" alt="futuristic" width="400"  src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
