@@ -1,5 +1,5 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/43218009/174121071-6b1d8a8e-8348-4f18-84dc-25c8d5e2061b.gif)
-<h1 align="center">Hello Friend. 	:space_invader:, I'm Augustine Okai Gyan</h1>
+<h1 align="center">Hello Friend. , I'm Augustine Okai Gyan</h1>
 
 `Geek From The Matrix `
 
